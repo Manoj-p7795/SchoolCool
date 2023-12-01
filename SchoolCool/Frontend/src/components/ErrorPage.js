@@ -25,16 +25,16 @@ const Container = styled.div`
 `;
 
 const Content = styled.div`
-  max-width: 800px;
-  padding: 20px;
+  max-width: 850px;
+  padding: 25px;
   text-align: center;
 `;
 
 const Heading = styled.h1`
   margin-bottom: 40px;
-  font-size: 32px;
+  font-size: 38px;
   font-weight: bold;
-  color: rgb(77, 9, 9);
+  color: rgb(78, 9, 9);
 `;
 
 const Text = styled.p`
